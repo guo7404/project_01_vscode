@@ -3,3 +3,4 @@ tuesday
 wensday
 thursday
 friday
+saturday
