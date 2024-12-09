@@ -2,3 +2,4 @@ monday
 tuesday
 wensday
 thursday
+friday
